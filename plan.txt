@@ -1,0 +1,7 @@
+Home Task - Create a personal portfolio using HTML only
+- use proper HTML5 document structure with appropriate doctype, html, head, and body tags.
+- include a title that reflects the topic of your webpage
+- create a homepage with links to different sections of the page (e.g., "About Me", "Education" and "Contact").
+- In the "About Me" section, include a brief introduction about yourself, along with a photo of yourself
+- In the "Education" section, create a table that lists your educational background, including the institution and subject and marks
+- In the "Contact" section, include your contact information, such as your email address, phone number, and social media links
